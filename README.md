@@ -7,3 +7,5 @@ then, insert link to process pdf, which explains how you cleaned the data, and w
 also insert image of Power BI visualisation you created, and excel report you created.
 
 that should be it. 
+
+EDIT: Also put in link to power bi viz file, if it looks like it fits well in the readme. 
