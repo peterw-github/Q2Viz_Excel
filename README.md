@@ -1,4 +1,4 @@
-# A Power BI visualisation, of a mock companies, Q2 YoY Performance.
+# A Power BI visualisation, of Q2 YoY Performance.
 
 <br>
 <br>
@@ -42,7 +42,7 @@ I've also made a single page, summary report, in Excel, which can be previewed h
 <br>
 <br>
 <br>
-
+<br>
 
 ## Detailed Walkthrough<br>
 
@@ -52,16 +52,14 @@ https://github.com/peterw-github/Q2Viz_Excel/blob/main/PDF's/Process.pdf
 <br>
 <br>
 <br>
-
+<br>
 
 
 ## Raw and Clean Dataset <br>
 
-The original, raw dataset is here: 
-
+The original, raw dataset is here: <br>
 https://github.com/peterw-github/Q2Viz_Excel/blob/main/Original_Dataset.xlsx
 
-And the cleaned version, that contains the Excel 1 page report, as well as the pivot tables used during variance analysis, is here:
-
+And the cleaned version, that contains the Excel 1 page report, as well as the pivot tables used during variance analysis, is here: <br>
 https://github.com/peterw-github/Q2Viz_Excel/blob/main/QuarterlyCustomers.xlsx
 
